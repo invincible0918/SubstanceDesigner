@@ -15,6 +15,6 @@ Some more attempts at art directions.</p>
 ![picture](/ReadMe/grass_0.png)
 ![picture](/ReadMe/grass_1.png)
 
-![picture](/ReadMe/ice_0.png)
-![picture](/ReadMe/ice_1.png)
+![picture](/ReadMe/stylized_ice_0.png)
+![picture](/ReadMe/stylized_ice_1.png)
 
